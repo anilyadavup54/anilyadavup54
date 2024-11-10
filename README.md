@@ -16,8 +16,8 @@ I'm a year Computer Science Undergraduate passionate about technology. I'm a Gol
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/anilyadavup54/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Suraif16?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/Suraif_Muhammad" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Suraif_Muhammad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+src="https://img.shields.io/github/followers/anilyadavup54?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/[Anil Yadav](https://x.com/Anilyadavano)" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Anilyadavano?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
 ### Skills
