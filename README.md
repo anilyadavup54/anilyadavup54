@@ -53,9 +53,9 @@ src="https://img.shields.io/twitter/follow/Anilyadavano?logo=twitter&style=for-t
 <b>My GitHub Stats</b>  
 
 
-<a href="http://www.github.com/Suraif16"><img src="https://github-readme-stats.vercel.app/api?username=Suraif16&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Suraif16's GitHub stats" /></a>
+<a href="http://www.github.com/anilyadavup54"><img src="https://github-readme-stats.vercel.app/api?username=anilyadavup54&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Anil's GitHub stats" /></a>
 
-<a href="http://www.github.com/Suraif16"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraif16&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anilyadavup54&theme=transparent&mode=weekly" alt="GitHub Streak" /></a>
 
 <a href="http://www.github.com/Suraif16"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Suraif16&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
