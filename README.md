@@ -6,7 +6,7 @@ Web Developer | Computer Science Undergraduate
 
 I'm a year Computer Science Undergraduate passionate about technology. I'm a Gold Microsoft Learn Student Ambassador, Postman Student Leader. I love writing, reading blogs during my free time.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suraif16&label=Profile%20views&color=0e75b6&style=flat" alt="Suraif16" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilyadavup54&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadavup54" /> </p>
 
 * 🌍  I'm based in Colombo
 * 🖥️  See my portfolio at [Anil ](https://anilyadavup54.github.io/Portfolio/)
