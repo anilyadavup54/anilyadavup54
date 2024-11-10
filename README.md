@@ -16,7 +16,7 @@ I'm a year Computer Science Undergraduate passionate about technology. I'm a Gol
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/anilyadavup54/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/anilyadavup54?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/[Anil Yadav](https://x.com/Anilyadavano)" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/anilyadavup54?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.twitter.com/Anilyadavano(https://x.com/Anilyadavano)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Anilyadavano?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
 
@@ -49,8 +49,6 @@ src="https://img.shields.io/twitter/follow/Anilyadavano?logo=twitter&style=for-t
 <a href="https://www.youtube.com/@suraifmuhammad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 
-### Badges  
-[![@suraif16's Holopin board](https://holopin.me/suraif16)](https://holopin.io/@suraif16)
 
 <b>My GitHub Stats</b>  
 
@@ -65,10 +63,7 @@ src="https://img.shields.io/twitter/follow/Anilyadavano?logo=twitter&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Suraif16/NTSF-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraif16&repo=NTSF-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Suraif16/NTSF-frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraif16&repo=NTSF-frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Suraif16/NTSF-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraif16&repo=NTSF-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/anilyadavup54/Portfolio" align="right"><img align="right" width="45%" src="https://anilyadavup54.github.io/Portfolio/api/pin/?username=anilyadavup54&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
-
-<!-- Temporarily de activating the buymecoffee website -->
-<!-- <a href="https://www.buymeacoffee.com/Suraif16"> -->
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
