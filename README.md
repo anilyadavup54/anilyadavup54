@@ -11,7 +11,7 @@ I'm a year Computer Science Undergraduate passionate about technology. I'm a Gol
 * 🌍  I'm based in Colombo
 * 🖥️  See my portfolio at [Anil ](https://anilyadavup54.github.io/Portfolio/)
 * ✉️  You can contact me at [nldvkmr@gmail.com](mailto:nldvkmr@gmail.com)
-* 🚀  I'm currently working on [On my portfolio](https://anilyadavup54.github.io/Portfolio/)
+* 🚀  I'm currently working on [my portfolio](https://anilyadavup54.github.io/Portfolio/)
 * 🧠  I'm learning Flutter currently
 * 🤝  I'm open to collaborating on interesting projects
 
@@ -57,13 +57,16 @@ src="https://img.shields.io/twitter/follow/Anilyadavano?logo=twitter&style=for-t
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anilyadavup54&theme=transparent&mode=weekly" alt="GitHub Streak" /></a>
 
-<a href="http://www.github.com/Suraif16"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Suraif16&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/anilyadavup54"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Suraif16&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Suraif16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraif16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/anilyadavup54" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraif16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/anilyadavup54/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anilyadavup54&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/anilyadavup54/Portfolio" align="right"><img align="right" width="45%" src="https://anilyadavup54.github.io/Portfolio/api/pin/?username=anilyadavup54&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/anilyadavup54/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anilyadavup54&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
+<a href="https://github.com/anilyadavup54/Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anilyadavup54&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
+</div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
