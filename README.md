@@ -8,11 +8,11 @@ I'm a year Computer Science Undergraduate passionate about technology. I'm a Gol
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilyadavup54&label=Profile%20views&color=0e75b6&style=flat" alt="anilyadavup54" /> </p>
 
-* 🌍  I'm based in Colombo
+* 🌍  I'm based in Kanpur U.P India
 * 🖥️  See my portfolio at [Anil ](https://anilyadavup54.github.io/Portfolio/)
 * ✉️  You can contact me at [nldvkmr@gmail.com](mailto:nldvkmr@gmail.com)
 * 🚀  I'm currently working on [my portfolio](https://anilyadavup54.github.io/Portfolio/)
-* 🧠  I'm learning Flutter currently
+* 🧠  I'm learning ReactJs currently
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/anilyadavup54/" target="_blank" rel="noreferrer"><img
