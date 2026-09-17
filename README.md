@@ -51,23 +51,55 @@ src="https://img.shields.io/twitter/follow/Anilyadavano?logo=twitter&style=for-t
 
 
 
-<b>My GitHub Stats</b>  
+<b>My GitHub Stats</b>
 
+<p>
+  <a href="https://github.com/anilyadavup54">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=anilyadavup54&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true"
+      alt="Anil's GitHub stats"
+    />
+  </a>
+</p>
 
-<a href="http://www.github.com/anilyadavup54"><img src="https://github-readme-stats.vercel.app/api?username=anilyadavup54&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Anil's GitHub stats" /></a>
+<p>
+  <a href="https://github.com/anilyadavup54">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=anilyadavup54&theme=transparent&mode=weekly"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anilyadavup54&theme=transparent&mode=weekly" alt="GitHub Streak" /></a>
+<p>
+  <a href="https://github.com/anilyadavup54">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=anilyadavup54&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+      alt="GitHub Commits Graph"
+    />
+  </a>
+</p>
 
-<a href="http://www.github.com/anilyadavup54"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Suraif16&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="http://www.github.com/anilyadavup54" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraif16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+  <a href="https://github.com/anilyadavup54">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilyadavup54&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-<a href="https://github.com/anilyadavup54/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anilyadavup54&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
-<a href="https://github.com/anilyadavup54/Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=anilyadavup54&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a>
-</div><br /><br /><br /><br /><br /><br /><br />
+  <a href="https://github.com/anilyadavup54/Portfolio">
+    <img
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=anilyadavup54&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en"
+      alt="Portfolio repository"
+    />
+  </a>
+</div>
 
 ### Support Me
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
