@@ -120,7 +120,7 @@ I'm a Computer Science graduate passionate about technology and software develop
 <p>
   <a href="https://github.com/anilyadavup54">
     <img
-      src="https://streak-stats.demolab.com?user=anilyadavup54&theme=transparent&mode=weekly"
+      src="https://streak-stats.demolab.com/?user=anilyadavup54&theme=dark&border_radius=6"
       alt="Anil's GitHub streak"
     />
   </a>
